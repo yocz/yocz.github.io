@@ -4,7 +4,7 @@
   <subtitle><![CDATA[ナンセンチメンタル]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://llulumine.net/"/>
-  <updated>2015-10-10T15:23:35.000Z</updated>
+  <updated>2015-11-02T07:59:55.000Z</updated>
   <id>http://llulumine.net/</id>
   
   <author>
@@ -13,6 +13,55 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[マイナスから始めるチップチューンの作り方]]></title>
+    <link href="http://llulumine.net/start-chiptune/"/>
+    <id>http://llulumine.net/start-chiptune/</id>
+    <published>2015-11-02T07:54:02.000Z</published>
+    <updated>2015-11-02T07:59:55.000Z</updated>
+    <content type="html"><![CDATA[<p>みんな大好きチップチューン。<br>ライブとかでゲームボーイをいじっている姿は、とってもカッコ良いですよね。</p>
+
+<p>ただそもそもチップチューンってどうやって作るのでしょうか？<br>ゲームボーイで音楽って作れるの？</p>
+
+<p>そんな疑問から、チップチューンを作る方法を調べてみました。</p>
+
+<h2>方法は2つ</h2>
+
+<p>DAWにプラグインを導入する。<br>ただ、ゲームボーイでやりたいんじゃ！という硬派な方は<a href="http://www.littlesounddj.com/lsd/" target="_blank" rel="external">LSDJ</a>を使用しましょう。</p>
+
+<p>それぞれについて解説します。</p>
+
+<h3>1. プラグインを使用する</h3>
+
+<p>有名なプラグインは4つあります。<br>お好みで好きなプラグインを使用しましょう。</p>
+
+<p><a href="http://www.ymck.net/download/" target="_blank" rel="external">Magical 8bit Plug</a></p>
+
+<p><a href="http://www.vst4free.com/free_vst.php?plugin=basic_65&amp;id=1815" target="_blank" rel="external">basic65</a></p>
+
+<p><a href="http://www.geocities.jp/mu_station/vstlabo/famisynth.html" target="_blank" rel="external">Famisynth</a></p>
+
+<p><a href="http://www.forest.impress.co.jp/article/2008/05/28/retromusiceditor.html" target="_blank" rel="external">Retro Music Edito</a></p>
+
+<h3>2. LSDJを使用する</h3>
+
+<p><a href="http://www.littlesounddj.com/lsd/" target="_blank" rel="external">LSDJ</a>とはチップチューンを作成するためのゲームボーイ用のソフトです。<br><a href="http://www.littlesounddj.com/lsd/" target="_blank" rel="external">LSDJ</a>一つで作曲から録音、さらにはMIDIコントローラーとしても使用することができます。<br>今回は<a href="http://www.littlesounddj.com/lsd/" target="_blank" rel="external">LSDJ</a>をエミュレーターで動かす方法を説明します。<br>エミュレーターはwindowsであれば<a href="http://bgb.bircd.org/" target="_blank" rel="external">BGB</a>を、macであれば<a href="http://kigb.emuunlim.com/downloads.htm" target="_blank" rel="external">kigb</a>を使用しましょう。<br>特に実機にこだわるのでなければ、エミュレーター上で作曲するのもアリでしょう。</p>
+
+<p>エミュレーターを導入する手順としては、<br>手順としては、</p>
+
+<ol><br><li><a href="http://www.littlesounddj.com/lsd/" target="_blank" rel="external">LSDJ</a>をダウンロード</li><br><li>解凍</li><br><li>エミュレーターをダウンロード</li><br><li>解凍</li><br><li>ディスクイメージを開く</li><br><li>ファイルを選択する画面が出てくるので、2. で解凍したファイルをオープン</li><br><li>できた！</li><br></ol>
+
+<p>こんな手順になります。<br><a href="http://www.littlesounddj.com/lsd/" target="_blank" rel="external">LSDJ</a>にはフリー版もあるので、まずはそちらをダウンロードして試してみるのも良いかもしれません。</p>]]></content>
+    <summary type="html">
+    <![CDATA[<p>みんな大好きチップチューン。<br>ライブとかでゲームボーイをいじっている姿は、とってもカッコ良いですよね。</p>
+
+<p>ただそもそもチップチューンってどうやって作るのでしょうか？<br>ゲームボーイで音楽って作れるの？</p>
+
+<p>そんな疑問から、チップチューンを]]>
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[金なし、コネなし、経験なしから始めるゲリラ戦起業術]]></title>
@@ -78,7 +127,7 @@
     <link href="http://llulumine.net/atfamima/"/>
     <id>http://llulumine.net/atfamima/</id>
     <published>2015-09-28T15:30:08.000Z</published>
-    <updated>2015-09-28T15:30:43.000Z</updated>
+    <updated>2015-10-26T08:36:05.000Z</updated>
     <content type="html"><![CDATA[<p>室内で仕事をしていると、ときたま、うわーとなって外へ駆け出したくなる時がある。<br>そういうときは決まって、こっそりオフィスを抜け出し、いい感じに距離の離れたコンビニへとお菓子の買い出しにいく。<br>今日もいつものように最寄りのファミリーマートへ行き、何を食べようかなあ、プリンがいいかなあ、カレーパンも捨てがたいなあ、コーヒー牛乳飲みたいなあ、などと店内をぶらついていると、従業員がこんな会話をしていた。</p>
 <p>デニス（いつも働いているアラブ系？のおっちゃん。）<br>「トゥーとウェンニーワン」<br>張（中国系の青年。めがね。新人）<br>「。。。」<br>デニス<br>「21デスヨ」<br>張<br>「。。。」</p>
 <p>俺は二人の会話が終わるのを待って、張がいるレジへと向かい、カレーパン代113円を払って店を後にした。<br>接客をしている間、張は一言も言葉を発さなかった。</p>
