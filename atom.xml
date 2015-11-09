@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[ナンセンチメンタル]]></title>
-  <subtitle><![CDATA[ナンセンチメンタル]]></subtitle>
+  <title><![CDATA[秒速ナンセンチメンタル]]></title>
+  <subtitle><![CDATA[秒速ナンセンチメンタル]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://llulumine.net/"/>
   <updated>2015-11-02T07:59:55.000Z</updated>
   <id>http://llulumine.net/</id>
   
   <author>
-    <name><![CDATA[よこむろ]]></name>
+    <name><![CDATA[yokomuu]]></name>
     
   </author>
   
