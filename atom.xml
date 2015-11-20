@@ -4,7 +4,7 @@
   <subtitle><![CDATA[秒速ナンセンチメンタル]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://llulumine.net/"/>
-  <updated>2015-11-18T02:26:22.000Z</updated>
+  <updated>2015-11-20T06:15:05.000Z</updated>
   <id>http://llulumine.net/</id>
   
   <author>
@@ -13,6 +13,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[webアプリ開発日誌#1]]></title>
+    <link href="http://llulumine.net/makeapp-1/"/>
+    <id>http://llulumine.net/makeapp-1/</id>
+    <published>2015-11-20T06:13:46.000Z</published>
+    <updated>2015-11-20T06:15:05.000Z</updated>
+    <content type="html"><![CDATA[<p>わたくし、実は個人事業主なんですよね。<br>最近ある案件で動画学習サービスを作ることになりまして、アプリを作成してゆく軌跡を届けてゆきたいと思います。</p>
+<h2>11/19進捗</h2>
+
+<p>今日はアプリの設計書を作成した。<br>ざっくりとした画面レイアウトを書いて、イメージを膨らませる作業。<br>手書きで書いているんだけど、何かいい方法はないものか。</p>
+<p>言語はphp、DBはmysqlを使用することにした。（枯れた技術って素晴らしいよね。）<br>動画に関しては、会員限定に公開ができるvimeo、支払機能に関してはpay.jp、stripe、paypalのどれかを使用するという感じで考えている。<br>ただどうやって公開するのかが不明だ。<br>レンタルサーバーでいいのか、heroku、AWS（なにそれ？）<br>明日はここをもうちょっと詰めてゆきたい。</p>
+<p>なにから手をつけて良いのかまったく先が見えないが、まず手を動かしてみよう、ということで明日からコードを書いて行こうと思う。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>わたくし、実は個人事業主なんですよね。<br>最近ある案件で動画学習サービスを作ることになりまして、アプリを作成してゆく軌跡を届けてゆきたいと思います。</p>
+<h2>11/19進捗</h2>
+
+<p>今日はアプリの設計書を作成した。<br>ざっくりとした画面レイアウトを]]>
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[時代劇っていいよね]]></title>
