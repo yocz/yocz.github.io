@@ -4,7 +4,7 @@
   <subtitle><![CDATA[秒速ナンセンチメンタル]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://llulumine.net/"/>
-  <updated>2015-11-23T02:28:55.000Z</updated>
+  <updated>2015-11-24T12:02:57.000Z</updated>
   <id>http://llulumine.net/</id>
   
   <author>
@@ -13,6 +13,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[webアプリ開発日誌#5]]></title>
+    <link href="http://llulumine.net/makeapp-5/"/>
+    <id>http://llulumine.net/makeapp-5/</id>
+    <published>2015-11-24T11:57:19.000Z</published>
+    <updated>2015-11-24T12:02:57.000Z</updated>
+    <content type="html"><![CDATA[<h2>11/23進捗</h2>
+
+<p>まずい。<br>bootstrapでざっくりレイアウトを組もうと思いたち、チャレンジしてみるも意味が不明。<br>どうしよう。</p>
+<p>実際の本番環境は何を使えば良いのか調べてみた。<br>AWSでも始めてみようかと、チュートリアルを読んでみたけれども挫折。<br>ちょっと厳しそう。<br>herokuかAWSのどっちが良いんだろう？<br>不明だ。</p>
+<p>納期はあと6日。<br>現在進捗0。<br>まずいまずいまずい。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h2>11/23進捗</h2>
+
+<p>まずい。<br>bootstrapでざっくりレイアウトを組もうと思いたち、チャレンジしてみるも意味が不明。<br>どうしよう。</p>
+<p>実際の本番環境は何を使えば良いのか調べてみた。<br>AWSでも始めてみようかと、チュートリアル]]>
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[webアプリ開発日誌#4]]></title>
