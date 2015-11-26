@@ -3,22 +3,28 @@
 <head>
   <meta charset="utf-8">
   
-  <title>Homebrewでアップデートエラーが発生した | 秒速ナンセンチメンタル</title>
+  <title>webアプリ開発日誌#6 | 秒速ナンセンチメンタル</title>
   <meta name="viewport" content="width=device-width">
   <meta name="keywords" content="ナンセンチメンタル,よこむろ,個人事業主,センチメンタル,ナンセンス,web開発,退屈,日常,hexo">
-  <meta name="description" content="久しぶりに触る機会があったので、homebrewをアップデートしようとしたら、
-1$ brew update&amp;#10;Checking out files: 100% (3332/3332), done.&amp;#10;Error: uninitialized constant Formulary::HOMEBREW_CORE_FORMULA_REGEX&amp;#10;Please report this b">
+  <meta name="description" content="11/24進捗
+
+今日ははかどった。bootstrapで画面のレイアウトをはめてゆく作業。bootstrapのexampleがあって、そこを変更しつつ作ってゆくのが良いみたい。
+さらにphpでログイン機能と新規会員登録機能も作っちゃった。いけるぞ。見えてきた。">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Homebrewでアップデートエラーが発生した">
-<meta property="og:url" content="http://llulumine.net/homebrew-err/index.html">
+<meta property="og:title" content="webアプリ開発日誌#6">
+<meta property="og:url" content="http://llulumine.net/makeapp-6/index.html">
 <meta property="og:site_name" content="秒速ナンセンチメンタル">
-<meta property="og:description" content="久しぶりに触る機会があったので、homebrewをアップデートしようとしたら、
-1$ brew update&amp;#10;Checking out files: 100% (3332/3332), done.&amp;#10;Error: uninitialized constant Formulary::HOMEBREW_CORE_FORMULA_REGEX&amp;#10;Please report this b">
-<meta property="og:updated_time" content="2015-11-25T09:30:42.000Z">
+<meta property="og:description" content="11/24進捗
+
+今日ははかどった。bootstrapで画面のレイアウトをはめてゆく作業。bootstrapのexampleがあって、そこを変更しつつ作ってゆくのが良いみたい。
+さらにphpでログイン機能と新規会員登録機能も作っちゃった。いけるぞ。見えてきた。">
+<meta property="og:updated_time" content="2015-11-26T07:20:16.000Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Homebrewでアップデートエラーが発生した">
-<meta name="twitter:description" content="久しぶりに触る機会があったので、homebrewをアップデートしようとしたら、
-1$ brew update&amp;#10;Checking out files: 100% (3332/3332), done.&amp;#10;Error: uninitialized constant Formulary::HOMEBREW_CORE_FORMULA_REGEX&amp;#10;Please report this b">
+<meta name="twitter:title" content="webアプリ開発日誌#6">
+<meta name="twitter:description" content="11/24進捗
+
+今日ははかどった。bootstrapで画面のレイアウトをはめてゆく作業。bootstrapのexampleがあって、そこを変更しつつ作ってゆくのが良いみたい。
+さらにphpでログイン機能と新規会員登録機能も作っちゃった。いけるぞ。見えてきた。">
   
     <link rel="alternative" href="/atom.xml" title="秒速ナンセンチメンタル" type="application/atom+xml">
   
@@ -62,11 +68,11 @@
 	</div>
 </header>
     <div id="main">
-      <article id="post-homebrew-err" class="post">
+      <article id="post-makeapp-6" class="post">
 	<footer class="entry-meta-header">
 		<span class="meta-elements date">
-			<a href="/homebrew-err/" class="article-date">
-  <time datetime="2015-11-25T09:23:32.000Z" itemprop="datePublished">11月 25 2015</time>
+			<a href="/makeapp-6/" class="article-date">
+  <time datetime="2015-11-26T07:19:55.000Z" itemprop="datePublished">11月 26 2015</time>
 </a>
 		</span>
 		<span class="meta-elements author">yokomuu</span>
@@ -79,18 +85,17 @@
 		
   
     <h1 class="article-title entry-title" itemprop="name">
-      Homebrewでアップデートエラーが発生した
+      webアプリ開発日誌#6
     </h1>
   
 
 	</header>
 	<div class="entry-content">
 		
-    	<p>久しぶりに触る機会があったので、<br>homebrewをアップデートしようとしたら、</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ brew update&#10;Checking out files: 100% (3332/3332), done.&#10;Error: uninitialized constant Formulary::HOMEBREW_CORE_FORMULA_REGEX&#10;Please report this bug:&#10;    https://git.io/brew-troubleshooting&#10;/usr/local/Library/Homebrew/formulary.rb:265:in `loader_for&#39;&#10;/usr/local/Library/Homebrew/formulary.rb:205:in `factory&#39;&#10;/usr/local/Library/Homebrew/cmd/update.rb:173:in `block in report&#39;&#10;/usr/local/Library/Homebrew/cmd/update.rb:159:in `each_line&#39;&#10;/usr/local/Library/Homebrew/cmd/update.rb:159:in `report&#39;&#10;/usr/local/Library/Homebrew/cmd/update.rb:24:in `update&#39;&#10;/usr/local/Library/brew.rb:140:in `&#60;main&#62;&#39;</span><br></pre></td></tr></table></figure>
-<p>みたいなエラーが出てきた。</p>
-<p>もう一回同じコマンドを叩くと上手くいくみたい。</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ brew update</span><br></pre></td></tr></table></figure>
+    	<h2>11/24進捗</h2>
+
+<p>今日ははかどった。<br>bootstrapで画面のレイアウトをはめてゆく作業。<br>bootstrapのexampleがあって、そこを変更しつつ作ってゆくのが良いみたい。</p>
+<p>さらにphpでログイン機能と新規会員登録機能も作っちゃった。<br>いけるぞ。見えてきた。</p>
 
     
 	</div>
@@ -108,21 +113,12 @@
     
 <nav id="article-nav">
   
-    <a href="/makeapp-6/" id="article-nav-newer" class="article-nav-link-wrap">
-      <strong class="article-nav-caption">Newer</strong>
-      <div class="article-nav-title">
-        
-          webアプリ開発日誌#6
-        
-      </div>
-    </a>
   
-  
-    <a href="/makeapp-5/" id="article-nav-older" class="article-nav-link-wrap">
+    <a href="/homebrew-err/" id="article-nav-older" class="article-nav-link-wrap">
       <strong class="article-nav-caption">Older</strong>
       <div class="article-nav-title">
         
-          webアプリ開発日誌#5
+          Homebrewでアップデートエラーが発生した
         
       </div>
     </a>
