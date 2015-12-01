@@ -4,7 +4,7 @@
   <subtitle><![CDATA[秒速ナンセンチメンタル]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://llulumine.net/"/>
-  <updated>2015-11-26T07:20:16.000Z</updated>
+  <updated>2015-12-01T13:31:36.000Z</updated>
   <id>http://llulumine.net/</id>
   
   <author>
@@ -13,6 +13,23 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[君と僕の大惨事世界大戦的恋愛革命]]></title>
+    <link href="http://llulumine.net/lost/"/>
+    <id>http://llulumine.net/lost/</id>
+    <published>2015-12-01T13:27:45.000Z</published>
+    <updated>2015-12-01T13:31:36.000Z</updated>
+    <content type="html"><![CDATA[<p>大事件が起きた。<br>今日久しぶりに見たら、Ririkaさんのtumblrが消されていた。<br>ここには何もありません。</p>
+<p>何種類かあるみたいだったけど、このアカウントが一番好きだった。<br>結局みんないなくなっちゃうんだよなー<br>リアルでもネットでも。<br>みんなどこへいくんだ？</p>
+<p>跡地<br><a href="http://isola-i.tumblr.com/" target="_blank" rel="external">http://isola-i.tumblr.com/</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>大事件が起きた。<br>今日久しぶりに見たら、Ririkaさんのtumblrが消されていた。<br>ここには何もありません。</p>
+<p>何種類かあるみたいだったけど、このアカウントが一番好きだった。<br>結局みんないなくなっちゃうんだよなー<br>リアルでもネットでも]]>
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[webアプリ開発日誌#6]]></title>
